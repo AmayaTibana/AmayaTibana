@@ -52,6 +52,7 @@ Internships in Jr. Data Engineering, Database Administration, or Jr. Data Analyt
 ## 🐾 Fun Fact
 
 I'm a dog person who somehow ended up with a cat  and ... she kinda likes to come hiking with me, riding on my shoulder like it's the most normal thing in the world.
+And if you're wondering, of course I use AI who doesn't
 
 
 <!--
