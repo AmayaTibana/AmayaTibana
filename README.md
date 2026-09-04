@@ -47,7 +47,7 @@ Currently working toward my AWS Certified Data Engineer Associate certification 
 
 ## ⭐ Open to
 
-Internships in Jr. Data Engineering, Database Administration, or Jr. Data Analytics, Be adopted by an ultra-millionaire in New York
+Internships in Jr. Data Engineering, Database Administration, or Jr. Data Analytics, get adopted by an ultra-millionaire in New York.
 
 ## 🐾 Fun Fact
 
