@@ -47,12 +47,11 @@ Currently working toward my AWS Certified Data Engineer Associate certification 
 
 ## ⭐ Open to
 
-Internships in Jr. Data Engineering, Database Administration, or Jr. Data Analytics, get adopted by an ultra-millionaire in New York.
+Internships in Jr. Data Engineering, Database Administration, or Jr. Data Analytics.
 
 ## 🐾 Fun Fact
 
 I'm a dog person who somehow ended up with a cat  and ... she kinda likes to come hiking with me, riding on my shoulder like it's the most normal thing in the world.
-And if you're wondering, of course I use AI who doesn't
 
 
 <!--
