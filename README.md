@@ -12,7 +12,7 @@ The Boring Part
 
 I'm originally from Venezuela — came to the US chasing something better, the way a lot of us do. Making that jump was never a small decision, and honestly, figuring out what "better" actually looked like once I got here took a while.
 
-What I kept coming back to was tech. Not because it was trendy, but because it was one of the only industries where nobody cares what your diploma says or how much debt you're willing to take on ( I'm changing this part)— they care if you can actually build the thing. No $100k degree required, no gatekeeping based on where you're from. Just you, a laptop, and whether you're willing to put in the work. That's rare, and once I realized it, I couldn't unsee it.
+What I kept coming back to was tech. Not because it was trendy, but because it was one of the only industries where nobody cares what your diploma says or how much debt you're willing to take on ( I'm changing this part!)— they care if you can actually build the thing. No $100k degree required, no gatekeeping based on where you're from. Just you, a laptop, and whether you're willing to put in the work. That's rare, and once I realized it, I couldn't unsee it.
 
 So I went all in. No CS degree, no shortcuts — just project after project, error after error, learning the way that actually sticks: by breaking things and figuring out why. I've spent more hours than I'd like to admit debugging something that made no sense at 2am, rebuilding an environment from scratch for the third time, refusing to walk away until it finally worked. Venezuelan-style, lol — we don't really know how to quit halfway through something.
 
