@@ -23,7 +23,7 @@ This page is basically proof of that, not a finished résumé, just someone stil
 
 ![AWS](https://img.shields.io/badge/AWS%20Certified%20Data%20Engineer%20Associate-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-And trying to get accepted at WGU! 
+And getting my bachelors at WGU and Masters at Georgia Tech! 
 
 Currently working toward my AWS Certified Data Engineer Associate certification and building cloud-deployed projects alongside it — moving from local/sandboxed environments to real infrastructure.
 
