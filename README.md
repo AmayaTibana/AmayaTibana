@@ -8,7 +8,7 @@
 
 ### Hey, I'm Carlos Amaya Tibana, AKA Amaya 👋
 
-The Boring Part
+The Boring Part.
 
 I'm originally from Venezuela — came to the US chasing something better, the way a lot of us do. Making that jump was never a small decision, and honestly, figuring out what "better" actually looked like once I got here took a while.
 
